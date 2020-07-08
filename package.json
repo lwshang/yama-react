@@ -1,0 +1,21 @@
+{
+  "name": "yama-react",
+  "version": "0.1.0",
+  "description": "React Frontend for YAMA",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yama-team/yama-react.git"
+  },
+  "author": "yama.team",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yama-team/yama-react/issues"
+  },
+  "homepage": "https://github.com/yama-team/yama-react#readme"
+}
